@@ -1,0 +1,21 @@
+{
+  "environment": "web",
+  "source": "secitec-2018.md",
+  "format": "html",
+  "prefix": "/assistentes-virtuais/",
+  "mainga": "UA-49880327-14",
+  "updated": "2018-11-21T19:29:31-03:00",
+  "id": "secitec-2018",
+  "duration": 123,
+  "title": "",
+  "author": "edusantana",
+  "summary": "“Nesse codelab, você irá aprender a criar sua trabalho acadêmico com as normas da ABNT utilizando Markdown.”",
+  "theme": "",
+  "status": [
+    "draft"
+  ],
+  "category": null,
+  "tags": [],
+  "feedback": "https://github.com/edusantana/assistentes-virtuais/issues",
+  "url": "secitec-2018"
+}
