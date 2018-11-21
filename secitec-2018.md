@@ -14,14 +14,13 @@ formatting help: https://github.com/googlecodelabs/tools/tree/master/claat/parse
 # Assistentes Virtuais: auxiliando nossas vidas
 
 ## Aprendendo a utilizar o git
-Duration: 1:00
+Duration: 5:00
 
 O git é um sistema de controle de versão de arquivos. Exemplo.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4SXCHvxRSNE?start=10" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Aonde aprender sobre o git
-Duration: 2:00
 
 
 - [Livro Pro Git - Primeira versão (em português)](https://git-scm.com/book/pt-br/v1)
@@ -29,14 +28,12 @@ Duration: 2:00
 - [Última versão do livro (em inglês)](https://git-scm.com/book/en)
 
 ## Introdução
-Duration: 3:00
 
 - O git é uma ferramenta de controle de versão.
 - O git funciona utilizando repositórios de arquivos descentralizados (existem vários repositórios)
 - O Github é uma empresa que vende hospedagens para repositórios on-line e oferece repositórios gratuítos para projetos de código aberto.
 
 ## Atividades
-Duration: 4
 
 ### 1. Criar um repositório para guardar arquivos para um projeto de uma disciplina
 
