@@ -18,10 +18,28 @@ Duration: 0:02
 
 
 ### Internet das coisas
-- [Internet das coisas](https://www.youtube.com/watch?v=O8-oiSsZl1Y&t=20)
+- [Internet das coisas/Tec mundo](https://www.youtube.com/watch?v=O8-oiSsZl1Y&t=20)
 
+
+### Alexa
+
+[Alexa Development 101 - Full Amazon Echo tutorial course in one video!](https://www.youtube.com/watch?v=4SXCHvxRSNE)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4SXCHvxRSNE?start=10" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- Alexa / serviços
+- Alexa skills / alexa voice service
+
+- Podemos criar os skills e vendê-lo.
+- Podemos criar componentes que são compatíveis com o alexa
+- Dispositivos: echo, outro dispostivios
+
+[Como criar um skill na Amazon](https://www.youtube.com/watch?v=4SXCHvxRSNE&t=6m09s)
+
+### Amazon echo
+
+![](img/amazon-echo.png)
+
 
 ## Aonde aprender sobre o git
 
