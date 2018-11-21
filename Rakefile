@@ -3,7 +3,7 @@ require 'rake/clean'
 directory 'tmp'
 
 desc "Cria a página html"
-task :html => ['tmp']do
+task :html do
   sh "claat export -o tmp/ -prefix '/assistentes-virtuais/' secitec-2018.md"
 
   puts "Criando conteúdo em tmp/"
@@ -19,6 +19,6 @@ task 'serve' do
 end
 
 desc 'Gera documentação em docs'
-task :docs => ['tmp/secitec-2018/index.html'] do
+task :docs do
   FileUtils.cp_r 'tmp/.', 'docs'
 end

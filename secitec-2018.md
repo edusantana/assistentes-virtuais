@@ -14,14 +14,14 @@ formatting help: https://github.com/googlecodelabs/tools/tree/master/claat/parse
 # Assistentes Virtuais: auxiliando nossas vidas
 
 ## Aprendendo a utilizar o git
-Duration: 00:10
+Duration: 0:10
 
 O git é um sistema de controle de versão de arquivos. Exemplo.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4SXCHvxRSNE?start=10" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Aonde aprender sobre o git
-Duration: 00:10
+Duration: 0:10
 
 
 - [Livro Pro Git - Primeira versão (em português)](https://git-scm.com/book/pt-br/v1)
@@ -29,7 +29,7 @@ Duration: 00:10
 - [Última versão do livro (em inglês)](https://git-scm.com/book/en)
 
 ## Introdução
-Duration: 01:00
+Duration: 0:02
 Environment: Web
 Raiz: Algo mais
 
@@ -39,7 +39,7 @@ Raiz: Algo mais
 - O Github é uma empresa que vende hospedagens para repositórios on-line e oferece repositórios gratuítos para projetos de código aberto.
 
 ## Atividades
-Duration: 00:30
+Duration: 0:30
 
 ### 1. Criar um repositório para guardar arquivos para um projeto de uma disciplina
 
@@ -50,6 +50,6 @@ Nesta atividade você irá criar um repositório para hospedar os arquivos de um
 3. Depois que o projeto for criado, edite o arquivo `README.md` e adicione um parágrafo explicando o projeto.
 
 ## Algo mais
-Duration: 00:05
+Duration: 0:05
 
 Sei lá.
