@@ -13,10 +13,13 @@ formatting help: https://github.com/googlecodelabs/tools/tree/master/claat/parse
 
 # Assistentes Virtuais: auxiliando nossas vidas
 
-## Aprendendo a utilizar o git
+## Internet de todas as coisas
 Duration: 0:02
 
-O git é um sistema de controle de versão de arquivos. Exemplo.
+
+### Internet das coisas
+- [Internet das coisas](https://www.youtube.com/watch?v=O8-oiSsZl1Y&t=20)
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4SXCHvxRSNE?start=10" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
