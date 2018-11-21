@@ -15,7 +15,7 @@ formatting help: https://github.com/googlecodelabs/tools/tree/master/claat/parse
 
 Duration: 02:10
 
-O git é um sistema de controle de versão de arquivos.
+O git é um sistema de controle de versão de arquivos. Exemplo.
 
 ## Aonde aprender sobre o git
 
