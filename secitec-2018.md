@@ -11,6 +11,8 @@ formatting help: https://github.com/googlecodelabs/tools/tree/master/claat/parse
 
 ---
 
+# Assistentes Virtuais: auxiliando nossas vidas
+
 ## Aprendendo a utilizar o git
 
 Duration: 02:10
