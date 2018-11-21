@@ -4,7 +4,7 @@
   "format": "html",
   "prefix": "/assistentes-virtuais/",
   "mainga": "UA-49880327-14",
-  "updated": "2018-11-21T19:48:33-03:00",
+  "updated": "2018-11-21T19:54:17-03:00",
   "id": "secitec-2018",
   "duration": 123,
   "title": "Assistentes Virtuais: auxiliando nossas vidas",
@@ -12,7 +12,7 @@
   "summary": "“Nesse codelab, você irá aprender a criar sua trabalho acadêmico com as normas da ABNT utilizando Markdown.”",
   "theme": "",
   "status": [
-    "draft"
+    "published"
   ],
   "category": null,
   "tags": [],

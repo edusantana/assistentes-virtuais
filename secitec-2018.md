@@ -4,7 +4,7 @@ summary: "Nesse codelab, você irá aprender a criar sua trabalho acadêmico com
 url: assistentes-virtuais-url
 category: "Web"
 environment: web
-status: Draft
+status: Published
 author: edusantana
 feedback link: https://github.com/edusantana/assistentes-virtuais/issues
 formatting help: https://github.com/googlecodelabs/tools/tree/master/claat/parser/md
@@ -18,6 +18,8 @@ formatting help: https://github.com/googlecodelabs/tools/tree/master/claat/parse
 Duration: 02:10
 
 O git é um sistema de controle de versão de arquivos. Exemplo.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4SXCHvxRSNE?start=10" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Aonde aprender sobre o git
 
