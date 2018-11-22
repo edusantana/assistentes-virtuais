@@ -36,7 +36,7 @@ Para um diálogo ser estabelecido nós precisamos de duas tecnologias:
 ### Cooreferencia
 
 positive
-: **Cooreferencia**: Por favor, pegue a bola verde da caixa verde e traga ela para mim.
+: **Cooreferencia**: Por favor, pegue a **bola verde** da **caixa vermelha** e traga **ela** para mim.
 
 ### Internet das coisas
 - [Internet das coisas/Tec mundo](https://www.youtube.com/watch?v=O8-oiSsZl1Y&t=20)
