@@ -14,9 +14,29 @@ formatting help: https://github.com/googlecodelabs/tools/tree/master/claat/parse
 # Assistentes Virtuais: auxiliando nossas vidas
 
 
-## Internet de todas as coisas
+## História dos assistentes
+
+### Siglas
+
+- voice user interface (VUI)
+- automated speech recognition (ASR) 
+- natural-language understanding (NLU)
+
+## Teorias
 Duration: 0:02
 
+
+### Requisitos para o diálogo
+
+Para um diálogo ser estabelecido nós precisamos de duas tecnologias:
+
+- reconhecimento de voz (automated speech recognition - ASR) 
+- entendimento da linguagem natural (natural-language understanding - NLU)
+
+### Cooreferencia
+
+positive
+: **Cooreferencia**: Por favor, pegue a bola verde da caixa verde e traga ela para mim.
 
 ### Internet das coisas
 - [Internet das coisas/Tec mundo](https://www.youtube.com/watch?v=O8-oiSsZl1Y&t=20)
