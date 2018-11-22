@@ -52,7 +52,7 @@ Duration: 0:02
 
 ### Requisitos para o diálogo
 
-Para um diálogo ser estabelecido nós precisamos de duas tecnologias:
+Para estabelecer um diálogo de voz, entre um humano e um computador, precisamos de duas tecnologias:
 
 - reconhecimento de voz (automated speech recognition - ASR) 
 - entendimento da linguagem natural (natural-language understanding - NLU)
