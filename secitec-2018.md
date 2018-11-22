@@ -43,7 +43,7 @@ positive
 
 ### Primeira Era
 
-- **1950**: reconhecimento da fala de um dígito
+- **1950**: reconhecimento de um dígito
 - **2000**: Diversos sistemas estavam disponíveis.
 - Nos EUA, os usuários podiam ligar para pegar informações de tráfegos, ações, atrasos de ônibus (antes dos smartfones)
 
