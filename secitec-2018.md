@@ -102,6 +102,8 @@ positive
 
 ![](img/usuario-estava-distraido.png)
 
+![](img/perguntar-novamente.png)
+
 ## Teorias
 Duration: 0:02
 
