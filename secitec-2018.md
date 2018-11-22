@@ -94,6 +94,14 @@ positive
 
 ![](img/usuario-informativo.png)
 
+- Qual o problema com esse diálogo?
+
+![](img/muita-informacao.png)
+
+<!-- muita informação -->
+
+![](img/usuario-estava-distraido.png)
+
 ## Teorias
 Duration: 0:02
 
