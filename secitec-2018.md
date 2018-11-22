@@ -87,7 +87,7 @@ positive
 
 ## Analisando Diálogos
 
-[Diálogo extraídos dessa apresentação](https://www.youtube.com/watch?v=wuDP_eygsvs&list=PL9kH1vkGoNuia9hI41yPebM2IVIv_Jdty)
+[Diálogo extraídos do canal Google Developers](https://www.youtube.com/watch?v=wuDP_eygsvs&list=PL9kH1vkGoNuia9hI41yPebM2IVIv_Jdty)
 
 ### Diálogo 1
 
