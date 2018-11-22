@@ -84,9 +84,9 @@ positive
 - Balancear visuais
 
 
-## Diálogos
+## Analisando Diálogos
 
-[Diálogo sem cooperação](https://www.youtube.com/watch?v=wuDP_eygsvs&list=PL9kH1vkGoNuia9hI41yPebM2IVIv_Jdty&t=2m28).
+<!-- [Diálogo sem cooperação](https://www.youtube.com/watch?v=wuDP_eygsvs&list=PL9kH1vkGoNuia9hI41yPebM2IVIv_Jdty&t=2m28). -->
 
 ![O que há de errado?](img/o-que-ha-de-errado.png)
 
@@ -103,6 +103,10 @@ positive
 ![](img/usuario-estava-distraido.png)
 
 ![](img/perguntar-novamente.png)
+
+![](img/diversos-estilos.png)
+
+![](img/pode-nao-ter-o-endereco.png)
 
 ## Teorias
 Duration: 0:02
