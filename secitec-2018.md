@@ -52,6 +52,13 @@ positive
 - Teorias dos antigos sistemas de voz, são redescobertas.
 - Dispostivos multi-modos
 
+## Design de sistemas de voz
+
+- Usuários podem ser interrompidos?
+- Quando eles podem falar?
+- Balancear visuais
+
+
 ### Por que utilizar Interface por voz?
 
 - **Velocidade**: falamos mais rápido do que digitamos.
@@ -76,12 +83,6 @@ positive
 
 - Bots não substituem aplicativos.
 - Melhores aplicativos substituem aplicativos.
-
-## Design de sistemas de voz
-
-- Usuários podem ser interrompidos?
-- Quando eles podem falar?
-- Balancear visuais
 
 
 ## Analisando Diálogos
