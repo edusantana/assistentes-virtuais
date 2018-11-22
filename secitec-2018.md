@@ -225,6 +225,10 @@ Vídeo de [apresentação do Google Home](https://www.youtube.com/watch?v=r0iLfA
 ![](img/amazon-echo.png)
 
 
+### Cortana: assistente da Microsoft (Windows 10)
+
+![](img/cortana.png)
+
 ## Projetos para 2019
 
 ### Marmiratia ou Pizzaria
