@@ -13,6 +13,7 @@ formatting help: https://github.com/googlecodelabs/tools/tree/master/claat/parse
 
 # Assistentes Virtuais: auxiliando nossas vidas
 
+
 ## Internet de todas as coisas
 Duration: 0:02
 
@@ -25,7 +26,7 @@ Duration: 0:02
 
 ### Dispostivo: Google Home
 
-[![](https://img.youtube.com/vi/r0iLfAV0pIg/hqdefault.jpg)](https://www.youtube.com/watch?v=r0iLfAV0pIg)
+![](https://img.youtube.com/vi/r0iLfAV0pIg/hqdefault.jpg)
 
 ## Amazon Alexa
 
@@ -75,3 +76,7 @@ Nesta atividade você irá criar um repositório para hospedar os arquivos de um
 ## Algo mais
 
 Sei lá.
+
+## Refencias
+
+![](https://covers.oreillystatic.com/images/0636920050056/cat.gif)
