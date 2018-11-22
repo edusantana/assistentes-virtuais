@@ -13,6 +13,10 @@ formatting help: https://github.com/googlecodelabs/tools/tree/master/claat/parse
 
 # Assistentes Virtuais: auxiliando nossas vidas
 
+## Internet de todas as coisas
+
+
+
 
 ## História dos assistentes
 
@@ -24,6 +28,14 @@ formatting help: https://github.com/googlecodelabs/tools/tree/master/claat/parse
 
 ## Teorias
 Duration: 0:02
+
+### Internet de todas as coisas
+- [Internet das coisas/Tec mundo](https://www.youtube.com/watch?v=O8-oiSsZl1Y&t=20)
+
+- *Internet das Coisas* vs *Internet de todas as coisas*
+
+positive
+: [Vídeo Internet de todas as coisas](https://www.youtube.com/watch?v=tAHwaHZS1pc)
 
 
 ### Requisitos para o diálogo
@@ -47,9 +59,15 @@ Para que um diálogo seja harmonioso, ele deve seguir o princípio da cooperativ
 - **Relevância**: Falar o que é relevante para a conversa em andamento.
 - **Maneiras**: Tentar ser claro e explicar coisas que façam sentido para os outros.
 
+Como sabemos que estamos errando:
 
-### Internet das coisas
-- [Internet das coisas/Tec mundo](https://www.youtube.com/watch?v=O8-oiSsZl1Y&t=20)
+
+- **Qualidade**: Dizer o que acreditamos ser verdade
+- **Quantidade**: Dizer as informações necessárias, não falar mais do que necessário.
+- **Relevância**: Falar o que é relevante para a conversa em andamento.
+- **Maneiras**: Tentar ser claro e explicar coisas que façam sentido para os outros.
+
+
 
 
 ## Google Assistant
@@ -107,14 +125,16 @@ Nesta atividade você irá criar um repositório para hospedar os arquivos de um
 
 ### Marmiratia ou Pizzaria
 
-- Startup
 - Bot (através do WhatsApp) para Marmiratia ou Pizzaria
 - Equipamento para impressão dos pedidos e interface administrativa com botões físicos para a cozinha
+- Startup
 
 ### Secretaria de Municipal do Meio Ambiente
 
 - Bot para [a página da Secretaria de Municipal do Meio Ambiente](http://semma.santarita.pb.gov.br)
 - Aplicação de Google Assistente para a Secretaria de Municipal do Meio Ambiente
+- Pesquisa sobre personalidade virtual do assistente
+- Startup: sistema para Secretarias Municipais do Meio Ambiente
 
 ### Limarka: sistema para TCC em Markdown
 
