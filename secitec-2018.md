@@ -86,7 +86,13 @@ positive
 
 ## Diálogos
 
+[Diálogo sem cooperação](https://www.youtube.com/watch?v=wuDP_eygsvs&list=PL9kH1vkGoNuia9hI41yPebM2IVIv_Jdty&t=2m28).
+
 ![O que há de errado?](img/o-que-ha-de-errado.png)
+
+![Diálogo com cooperação](img/dialogo-com-coperacao.png)
+
+![](img/usuario-informativo.png)
 
 ## Teorias
 Duration: 0:02
