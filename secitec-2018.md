@@ -184,10 +184,16 @@ Como sabemos que estamos errando:
 ## Personalidades
 
 
-[Marvin](https://www.youtube.com/watch?v=nQj7qOSrzZ4)
+[Marvin, o Andróide Paranóide -- Guia do Mochileiro das Galáxias](https://www.youtube.com/watch?v=nQj7qOSrzZ4)
 
 ![](https://banner2.kisspng.com/20180516/trw/kisspng-marvin-the-hitchhiker-s-guide-to-the-galaxy-robby-5afbb083159342.5219726015264441630884.jpg)
 
+
+### 16 Personalidades
+
+![](img/16-personalidades1.png)
+
+![](img/16-personalidades2.png)
 
 ## Dispositivos e tecnologias
 
