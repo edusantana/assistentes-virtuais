@@ -154,7 +154,7 @@ Nesta atividade você irá criar um repositório para hospedar os arquivos de um
 
 ### Misssão Braços Abertos
 
-- [Bot para o Facebook](https://www.facebook.com/Miss%C3%A3o-Batista-Bra%C3%A7os-Abertos-Santa-Rita-PB-439890752866170/)
+- Bot para o [Facebook](https://www.facebook.com/Miss%C3%A3o-Batista-Bra%C3%A7os-Abertos-Santa-Rita-PB-439890752866170/)
 
 ### Documentação de software
 
