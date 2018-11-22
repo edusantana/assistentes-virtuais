@@ -74,10 +74,10 @@ Para que um diálogo seja harmonioso, ele deve seguir o princípio da cooperativ
 Como sabemos que estamos errando:
 
 
-- **Qualidade**: Dizer o que acreditamos ser verdade
-- **Quantidade**: Dizer as informações necessárias, não falar mais do que necessário.
-- **Relevância**: Falar o que é relevante para a conversa em andamento.
-- **Maneiras**: Tentar ser claro e explicar coisas que façam sentido para os outros.
+- **Qualidade**: *Como posso lhe ajuda*? - mas eu só consigo ajudar com situações específicas.
+- **Quantidade**: *Por favor, escute atentamente porque nossas opções mudaram* (...)
+- **Relevância**: *Fornecer instruções que não são úteis no momento*. Ex: explicar política de troca para alguém que ainda não comprou.
+- **Maneiras**: Utilização de jargões técnicos.
 
 
 
