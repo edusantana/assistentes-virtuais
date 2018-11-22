@@ -74,11 +74,19 @@ positive
 
 ![](https://miro.medium.com/max/770/1*69vLXZCjrJwdXytj0CTSiQ.jpeg)
 
-### Siglas
+- Bots não substituem aplicativos.
+- Melhores aplicativos substituem aplicativos.
 
-- voice user interface (VUI)
-- automated speech recognition (ASR) 
-- natural-language understanding (NLU)
+## Design de sistemas de voz
+
+- Usuários podem ser interrompidos?
+- Quando eles podem falar?
+- Balancear visuais
+
+
+## Diálogos
+
+![O que há de errado?](img/o-que-ha-de-errado.png)
 
 ## Teorias
 Duration: 0:02
