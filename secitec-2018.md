@@ -15,9 +15,10 @@ formatting help: https://github.com/googlecodelabs/tools/tree/master/claat/parse
 
 ## Introdução
 
+[Primeiro computador com interface de voz](https://www.youtube.com/watch?v=1ZXugicgn6U)
+
 ![](https://img.youtube.com/vi/1ZXugicgn6U/hqdefault.jpg)
 
-- [Primeiro computador com interface de voz](https://www.youtube.com/watch?v=1ZXugicgn6U)
 
 ### Internet de todas as coisas
 
@@ -40,7 +41,38 @@ positive
 
 ## História dos assistentes
 
-- **1950**: reconhecimento de dígito
+### Primeira Era
+
+- **1950**: reconhecimento da fala de um dígito
+- **2000**: Diversos sistemas estavam disponíveis.
+- Nos EUA, os usuários podiam ligar para pegar informações de tráfegos, ações, atrasos de ônibus (antes dos smartfones)
+
+### Aplicações mobile
+
+- Teorias dos antigos sistemas de voz, são redescobertas.
+- Dispostivos multi-modos
+
+### Por que utilizar Interface por voz?
+
+- **Velocidade**: falamos mais rápido do que digitamos.
+
+- **Mãos livres**: podemos consultar enquanto estamos cozinhando, dirigindo, longe do dispositivo. Mais prático.
+
+- **Intuitivo**: Não precisamos ensinar as pessoas a utilizarem a interface, *todos* sabemos falar.
+
+- **Empatia**: A utilização de entonação, volume e velocidade da pronuncia agrega informações.
+
+### Quando não utilizar
+
+- Espaços públicos
+- Desconforto em falar com computador
+- Alguns preferem digitar
+- Privacidade
+
+
+### Chatbots
+
+![](https://miro.medium.com/max/770/1*69vLXZCjrJwdXytj0CTSiQ.jpeg)
 
 ### Siglas
 
