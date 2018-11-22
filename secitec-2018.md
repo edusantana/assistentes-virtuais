@@ -79,4 +79,4 @@ Sei lá.
 
 ## Refencias
 
-![](https://covers.oreillystatic.com/images/0636920050056/cat.gif)
+![](img/livro-design-user-interface.png)
