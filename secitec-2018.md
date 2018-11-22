@@ -86,7 +86,7 @@ positive
 
 ## Analisando Diálogos
 
-<!-- [Diálogo sem cooperação](https://www.youtube.com/watch?v=wuDP_eygsvs&list=PL9kH1vkGoNuia9hI41yPebM2IVIv_Jdty&t=2m28). -->
+[Diálogo extraídos dessa apresentação](https://www.youtube.com/watch?v=wuDP_eygsvs&list=PL9kH1vkGoNuia9hI41yPebM2IVIv_Jdty)
 
 ### Diálogo 1
 
@@ -96,7 +96,7 @@ positive
 
 ![Diálogo com cooperação](img/dialogo-com-coperacao.png)
 
-### Diálogo 2
+### Diálogo 3
 
 ![](img/usuario-informativo.png)
 
@@ -127,6 +127,22 @@ positive
 ### Diálogo 9
 
 ![](img/falando-opcoes.png)
+
+### Diálogo 10
+
+![](img/dialogos-mais-intuitivos.png)
+
+## Dicas
+
+![](img/dicas.png)
+
+![](img/uso-involuntario.png)
+
+![](img/lembra-contexto.png)
+
+![](img/diga-seu-telefone.png)
+
+![](img/qual-seu-telefone-redesign.png)
 
 ## Teorias
 Duration: 0:02
