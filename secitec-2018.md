@@ -152,9 +152,9 @@ Nesta atividade você irá criar um repositório para hospedar os arquivos de um
 
 - Atualização do [Limarka](https://github.com/abntex/limarka/wiki/Apresenta%C3%A7%C3%A3o) para [não necessitar do Latex](https://github.com/abntex/limarka/issues/154)
 
-### Ong/Associação Braços Abertos
+### Misssão Braços Abertos
 
-- Bot para o Facebook
+- [Bot para o Facebook](https://www.facebook.com/Miss%C3%A3o-Batista-Bra%C3%A7os-Abertos-Santa-Rita-PB-439890752866170/)
 
 ### Documentação de software
 
