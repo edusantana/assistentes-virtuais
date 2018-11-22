@@ -132,6 +132,8 @@ positive
 
 ![](img/dialogos-mais-intuitivos.png)
 
+
+
 ## Dicas
 
 ![](img/dicas.png)
@@ -143,6 +145,14 @@ positive
 ![](img/diga-seu-telefone.png)
 
 ![](img/qual-seu-telefone-redesign.png)
+
+![](img/terminar-servico.png)
+
+![](img/parando-servido-redesign.png)
+
+![](img/seja-claro-converse.png)
+
+![](img/outros-temas.png)
 
 ## Teorias
 Duration: 0:02
