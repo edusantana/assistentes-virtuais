@@ -33,10 +33,20 @@ Para um diálogo ser estabelecido nós precisamos de duas tecnologias:
 - reconhecimento de voz (automated speech recognition - ASR) 
 - entendimento da linguagem natural (natural-language understanding - NLU)
 
-### Cooreferencia
-
 positive
-: **Cooreferencia**: Por favor, pegue a **bola verde** da **caixa vermelha** e traga **ela** para mim.
+: **Cooreferencia**: Por favor, pegue a **bola azula** da **caixa vermelha** e traga **ela** para mim.
+
+
+
+### Princípio da cooperatividade
+
+Para que um diálogo seja harmonioso, ele deve seguir o princípio da cooperatividade, dividido em 4 partes:
+
+- **Qualidade**: Dizer o que acreditamos ser verdade
+- **Quantidade**: Dizer as informações necessárias, não falar mais do que necessário.
+- **Relevância**: Falar o que é relevante para a conversa em andamento.
+- **Maneiras**: Tentar ser claro e explicar coisas que façam sentido para os outros.
+
 
 ### Internet das coisas
 - [Internet das coisas/Tec mundo](https://www.youtube.com/watch?v=O8-oiSsZl1Y&t=20)
