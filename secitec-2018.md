@@ -40,6 +40,8 @@ positive
 
 ## História dos assistentes
 
+- **1950**: reconhecimento de dígito
+
 ### Siglas
 
 - voice user interface (VUI)
@@ -74,7 +76,7 @@ Para que um diálogo seja harmonioso, ele deve seguir o princípio da cooperativ
 Como sabemos que estamos errando:
 
 
-- **Qualidade**: *Como posso lhe ajuda*? - mas eu só consigo ajudar com situações específicas.
+- **Qualidade**: *Como posso lhe ajuda*? - mas eu só consigo auxiliar com situações específicas.
 - **Quantidade**: *Por favor, escute atentamente porque nossas opções mudaram* (...)
 - **Relevância**: *Fornecer instruções que não são úteis no momento*. Ex: explicar política de troca para alguém que ainda não comprou.
 - **Maneiras**: Utilização de jargões técnicos.
@@ -132,6 +134,14 @@ Nesta atividade você irá criar um repositório para hospedar os arquivos de um
 1. Escolham um projeto de disciplina (se não tiver um projeto, invente um).
 2. Vá ao github e crie um repositório para o projeto escolhido. (Lembre-se de marcar que deseja criar um arquivo README)
 3. Depois que o projeto for criado, edite o arquivo `README.md` e adicione um parágrafo explicando o projeto.
+
+### Personalidades
+
+
+
+[Marvin](https://www.youtube.com/watch?v=nQj7qOSrzZ4)
+
+![](https://banner2.kisspng.com/20180516/trw/kisspng-marvin-the-hitchhiker-s-guide-to-the-galaxy-robby-5afbb083159342.5219726015264441630884.jpg)
 
 ## Meus Projetos para 2019
 
