@@ -103,10 +103,23 @@ Nesta atividade você irá criar um repositório para hospedar os arquivos de um
 2. Vá ao github e crie um repositório para o projeto escolhido. (Lembre-se de marcar que deseja criar um arquivo README)
 3. Depois que o projeto for criado, edite o arquivo `README.md` e adicione um parágrafo explicando o projeto.
 
-## Algo mais
+## Meus Projetos para 2019
 
-Sei lá.
+### Marmiratia ou Pizzaria
 
-## Refencias
+- Startup
+- Bot (através do WhatsApp) para Marmiratia ou Pizzaria
+- Equipamento para impressão dos pedidos e interface administrativa com botões físicos para a cozinha
 
-![](img/livro-design-user-interface.png)
+### Secretaria de Municipal do Meio Ambiente
+
+- Bot para [a página da Secretaria de Municipal do Meio Ambiente](http://semma.santarita.pb.gov.br)
+- Aplicação de Google Assistente para a Secretaria de Municipal do Meio Ambiente
+
+### Limarka: sistema para TCC em Markdown
+
+- Atualização do [Limarka](https://github.com/abntex/limarka/wiki/Apresenta%C3%A7%C3%A3o) para [não necessitar do Latex](https://github.com/abntex/limarka/issues/154)
+
+### Ong/Associação Braços Abertos
+
+- Bot para o Facebook
