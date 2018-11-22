@@ -158,4 +158,8 @@ Nesta atividade você irá criar um repositório para hospedar os arquivos de um
 
 ### Documentação de software
 
-Elaboração de documentação de softwares (aplicativos de celular), utilizando *esta interface*.
+Elaboração de documentação de softwares (aplicativos de celular), utilizando *esta interface*, utilizada por:
+
+- [google codelabs](http://codelabs.developers.google.com)
+
+- [ubuntu tutorials](https://tutorials.ubuntu.com)
