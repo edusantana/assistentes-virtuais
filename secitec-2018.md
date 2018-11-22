@@ -13,9 +13,15 @@ formatting help: https://github.com/googlecodelabs/tools/tree/master/claat/parse
 
 # Assistentes Virtuais: auxiliando nossas vidas
 
-## Internet de todas as coisas
+## Introdução
 
+![](https://img.youtube.com/vi/1ZXugicgn6U/hqdefault.jpg)
 
+- [Primeiro computador com interface de voz](https://www.youtube.com/watch?v=1ZXugicgn6U)
+
+### Internet de todas as coisas
+
+![Torradeira](https://img.ibxk.com.br/2012/9/materias/4094334772416328.jpg)
 
 
 ## História dos assistentes
