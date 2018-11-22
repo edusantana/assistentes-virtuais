@@ -21,6 +21,14 @@ Duration: 0:02
 - [Internet das coisas/Tec mundo](https://www.youtube.com/watch?v=O8-oiSsZl1Y&t=20)
 
 
+## Google Assistant
+
+### Dispostivo: Google Home
+
+[![](https://img.youtube.com/vi/r0iLfAV0pIg/hqdefault.jpg)](https://www.youtube.com/watch?v=r0iLfAV0pIg)
+
+## Amazon Alexa
+
 ### Alexa
 
 [Alexa Development 101 - Full Amazon Echo tutorial course in one video!](https://www.youtube.com/watch?v=4SXCHvxRSNE)
@@ -36,7 +44,7 @@ Duration: 0:02
 
 [Como criar um skill na Amazon](https://www.youtube.com/watch?v=4SXCHvxRSNE&t=6m09s)
 
-### Amazon echo
+### Dispostivo: Amazon Echo
 
 ![](img/amazon-echo.png)
 
