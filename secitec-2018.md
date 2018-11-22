@@ -21,8 +21,22 @@ formatting help: https://github.com/googlecodelabs/tools/tree/master/claat/parse
 
 ### Internet de todas as coisas
 
+- [Torradeira imprime previsão do tempo](http://www.detodaforma.com/2014/07/torradeira-que-imprime-previsao-do-tempo.html)
+
 ![Torradeira](https://img.ibxk.com.br/2012/9/materias/4094334772416328.jpg)
 
+
+[Internet das coisas/Tec mundo](https://www.youtube.com/watch?v=O8-oiSsZl1Y&t=20)
+
+![](https://img.youtube.com/vi/O8-oiSsZl1Y/hqdefault.jpg)
+
+
+- *Internet das Coisas* vs *Internet de todas as coisas*
+
+positive
+: [Vídeo](https://www.youtube.com/watch?v=tAHwaHZS1pc). A **Internet de todas as coisas** envolte: Pessoas, Processos, Dados e Coisas.
+
+![](https://img.youtube.com/vi/tAHwaHZS1pc/hqdefault.jpg)
 
 ## História dos assistentes
 
@@ -34,14 +48,6 @@ formatting help: https://github.com/googlecodelabs/tools/tree/master/claat/parse
 
 ## Teorias
 Duration: 0:02
-
-### Internet de todas as coisas
-- [Internet das coisas/Tec mundo](https://www.youtube.com/watch?v=O8-oiSsZl1Y&t=20)
-
-- *Internet das Coisas* vs *Internet de todas as coisas*
-
-positive
-: [Vídeo Internet de todas as coisas](https://www.youtube.com/watch?v=tAHwaHZS1pc)
 
 
 ### Requisitos para o diálogo
@@ -149,3 +155,7 @@ Nesta atividade você irá criar um repositório para hospedar os arquivos de um
 ### Ong/Associação Braços Abertos
 
 - Bot para o Facebook
+
+### Documentação de software
+
+Elaboração de documentação de softwares (aplicativos de celular), utilizando *esta interface*.

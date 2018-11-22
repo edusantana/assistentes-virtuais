@@ -22,3 +22,9 @@ desc 'Gera documentação em docs'
 task :docs do
   FileUtils.cp_r 'tmp/.', 'docs'
 end
+
+desc 'Gera documentação local'
+task :local do
+  sh "claat export -o tmp/ secitec-2018.md"
+  puts "Criando conteúdo local em tmp/"
+end
