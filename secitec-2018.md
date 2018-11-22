@@ -108,6 +108,10 @@ positive
 
 ![](img/pode-nao-ter-o-endereco.png)
 
+<!-- *Evitar impressionar, planejar diálogos.* -->
+
+![](img/falando-opcoes.png)
+
 ## Teorias
 Duration: 0:02
 
