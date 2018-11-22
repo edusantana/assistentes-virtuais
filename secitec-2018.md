@@ -191,7 +191,7 @@ Como sabemos que estamos errando:
 
 ## Dispositivos e tecnologias
 
-### Google Assistant
+### Assistente do Google
 
 #### Dispostivo: Google Home
 
@@ -203,8 +203,6 @@ Vídeo de [apresentação do Google Home](https://www.youtube.com/watch?v=r0iLfA
 
 #### Alexa
 
-[Alexa Development 101 - Full Amazon Echo tutorial course in one video!](https://www.youtube.com/watch?v=4SXCHvxRSNE)
-
 <!--
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4SXCHvxRSNE?start=10" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -212,18 +210,24 @@ Vídeo de [apresentação do Google Home](https://www.youtube.com/watch?v=r0iLfA
 -->
 
 - Alexa / serviços
-- Alexa skills / alexa voice service
-
+- Alexa _skills_
 - Podemos criar os skills e vendê-lo.
-- Podemos criar componentes que são compatíveis com o alexa
-- Dispositivos: echo, outro dispostivios
+- Podemos criar componentes que são compatíveis com o Alexa
+- Dispositivos: Echo, smart plug e outros
 
-[Como criar um skill na Amazon](https://www.youtube.com/watch?v=4SXCHvxRSNE&t=6m09s)
+[Alexa Development 101 - Full Amazon Echo tutorial course in one video!](https://www.youtube.com/watch?v=4SXCHvxRSNE)
 
-#### Dispostivo: Amazon Echo
+#### Amazon Echo
 
 ![](img/amazon-echo.png)
 
+#### Tomada inteligente
+
+![](img/tomada-inteligente.png)
+
+#### AmazonBasics Microwave e Wall Clock
+
+![](img/amazon-dispositivos.png)
 
 ### Cortana: assistente da Microsoft (Windows 10)
 
