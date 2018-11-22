@@ -88,27 +88,43 @@ positive
 
 <!-- [Diálogo sem cooperação](https://www.youtube.com/watch?v=wuDP_eygsvs&list=PL9kH1vkGoNuia9hI41yPebM2IVIv_Jdty&t=2m28). -->
 
-1. ![O que há de errado?](img/o-que-ha-de-errado.png)
+### Diálogo 1
 
-2. ![Diálogo com cooperação](img/dialogo-com-coperacao.png)
+![O que há de errado?](img/o-que-ha-de-errado.png)
+
+### Diálogo 2
+
+![Diálogo com cooperação](img/dialogo-com-coperacao.png)
+
+### Diálogo 2
 
 ![](img/usuario-informativo.png)
 
-- Qual o problema com esse diálogo?
-
-![](img/muita-informacao.png)
+### Diálogo 4
 
 <!-- muita informação -->
 
+![](img/muita-informacao.png)
+
+### Diálogo 5
+
 ![](img/usuario-estava-distraido.png)
+
+### Diálogo 6
 
 ![](img/perguntar-novamente.png)
 
+### Diálogo 7
+
 ![](img/diversos-estilos.png)
+
+### Diálogo 8
 
 ![](img/pode-nao-ter-o-endereco.png)
 
 <!-- *Evitar impressionar, planejar diálogos.* -->
+
+### Diálogo 9
 
 ![](img/falando-opcoes.png)
 
