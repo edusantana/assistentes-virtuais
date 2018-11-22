@@ -223,7 +223,7 @@ Como sabemos que estamos errando:
 ![](img/amazon-echo.png)
 
 
-## Meus Projetos para 2019
+## Projetos para 2019
 
 ### Marmiratia ou Pizzaria
 
