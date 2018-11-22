@@ -76,6 +76,32 @@ positive
 - Alguns preferem digitar
 - Privacidade
 
+### Requisitos para o diálogo
+
+Para estabelecer um diálogo de voz, entre um humano e um computador, precisamos de duas tecnologias:
+
+- reconhecimento de voz (automated speech recognition - ASR) 
+- entendimento da linguagem natural (natural-language understanding - NLU)
+
+positive
+: **Cooreferencia**: Por favor, pegue a **bola azula** da **caixa vermelha** e traga **ela** para mim.
+
+### Princípio da cooperatividade
+
+Para que um diálogo seja harmonioso, ele deve seguir o princípio da cooperatividade, dividido em 4 partes:
+
+- **Qualidade**: Dizer o que acreditamos ser verdade
+- **Quantidade**: Dizer as informações necessárias, não falar mais do que necessário.
+- **Relevância**: Falar o que é relevante para a conversa em andamento.
+- **Maneiras**: Tentar ser claro e explicar coisas que façam sentido para os outros.
+
+Como sabemos que estamos errando:
+
+- **Qualidade**: *Como posso lhe ajuda*? - mas eu só consigo auxiliar com situações específicas.
+- **Quantidade**: *Por favor, escute atentamente porque nossas opções mudaram* (...)
+- **Relevância**: *Fornecer instruções que não são úteis no momento*. Ex: explicar política de troca para alguém que ainda não comprou.
+- **Maneiras**: Utilização de jargões técnicos.
+
 
 ### Chatbots
 
@@ -157,36 +183,6 @@ positive
 
 ## Teorias
 Duration: 0:02
-
-
-### Requisitos para o diálogo
-
-Para estabelecer um diálogo de voz, entre um humano e um computador, precisamos de duas tecnologias:
-
-- reconhecimento de voz (automated speech recognition - ASR) 
-- entendimento da linguagem natural (natural-language understanding - NLU)
-
-positive
-: **Cooreferencia**: Por favor, pegue a **bola azula** da **caixa vermelha** e traga **ela** para mim.
-
-
-
-### Princípio da cooperatividade
-
-Para que um diálogo seja harmonioso, ele deve seguir o princípio da cooperatividade, dividido em 4 partes:
-
-- **Qualidade**: Dizer o que acreditamos ser verdade
-- **Quantidade**: Dizer as informações necessárias, não falar mais do que necessário.
-- **Relevância**: Falar o que é relevante para a conversa em andamento.
-- **Maneiras**: Tentar ser claro e explicar coisas que façam sentido para os outros.
-
-Como sabemos que estamos errando:
-
-
-- **Qualidade**: *Como posso lhe ajuda*? - mas eu só consigo auxiliar com situações específicas.
-- **Quantidade**: *Por favor, escute atentamente porque nossas opções mudaram* (...)
-- **Relevância**: *Fornecer instruções que não são úteis no momento*. Ex: explicar política de troca para alguém que ainda não comprou.
-- **Maneiras**: Utilização de jargões técnicos.
 
 
 
