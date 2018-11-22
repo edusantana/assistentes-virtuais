@@ -195,7 +195,9 @@ Como sabemos que estamos errando:
 
 #### Dispostivo: Google Home
 
-![](https://img.youtube.com/vi/r0iLfAV0pIg/hqdefault.jpg)
+Vídeo de [apresentação do Google Home](https://www.youtube.com/watch?v=r0iLfAV0pIg)
+
+![](https://img.youtube.com/vi/r0iLfAV0pIg/mqdefault.jpg)
 
 ### Amazon Alexa
 
